@@ -4,3 +4,5 @@ This repository contains the Python code to reproduce the results in our paper [
 
 1. Run preprocessed-data.ipynb to download and preprocess data sets.
 2. Run ACS-income-analysis.ipynb to reproduce results from the paper. 
+
+The following Python packages are required to be installed: whyshift, folktables (to download data sets), pandas, numpy, cvxpy, sklearn, xgboost. 
